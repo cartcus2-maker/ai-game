@@ -1,0 +1,6 @@
+{
+  "name": "FIZZ-X Runner: Soda Hero 3D",
+  "description": "بازی سه بعدی آرکید دویدن نوشابه‌ای به سبک رترو پلی‌استیشن ۱ با تعقیب و گریز قوطی غول‌پیکر FIZZ-X",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
